@@ -21,7 +21,7 @@ const Navbar = () => {
                 </li>
             </ul>
             <div>
-              <span class="badge text-bg-success">Your Balance: {amount}</span>            </div>
+              <span className="badge text-bg-success">Your Balance: {amount}</span>            </div>
             </div>
         </div>
         </nav>
